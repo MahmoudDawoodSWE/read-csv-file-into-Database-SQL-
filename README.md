@@ -1,7 +1,7 @@
 # read-csv-file-into-Database-SQL-
 ## Description
 
-This GitHub repository contains a data reading and statistics program. The program is designed to read a specific file and store its contents into a database. Once the data is stored, the program provides various statistical analysis capabilities.
+data reading and statistics program. The program is designed to read a specific file and store its contents into a database. Once the data is stored, the program provides various statistical analysis capabilities.
 
 ## Usage
 
